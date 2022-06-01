@@ -60,6 +60,7 @@ List of Packages
 | class-validator                 | Library for decorator and non-decorator based validation.               |                                         
 | redis                           | Redis Client.                                                           |
 | reflect-metadata                | Library for Metadata Reflection API.                                    |
+| supertest                       | HTTP testing Library.                                                   |
 | winston                         | Logging library.                                                        |
 | prettier                        | Opinionated Code Formatter.                                             |
 | tslint                          | Linter TypeScript.                                                      |
